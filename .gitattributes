@@ -1,2 +1,83 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<html>
+<head>
+ <title>login facebook </title>
+<style type="text/css">
+	button{padding-left: 123;
+	padding-right: 123;
+	
+padding-top: 10;
+padding-bottom: 10;
+color: white;
+background-color: blue;
+	}
+	input{padding-left: 55;
+	padding-right: 55;
+	
+padding-top: 10;
+padding-bottom: 10;
+
+}
+	button2{padding-left: 50;
+	padding-right: 50;
+	
+padding-top: 10;
+padding-bottom: 10;
+color: whitesmoke;
+background-color: rgb(128, 248, 128);}
+ 
+		
+</style>
+
+
+</head>
+<form>
+<tableborder="25">
+<body>
+<div style="width: 100%; height: 100%; position: relative; background: linear-gradient(217deg, rgba(99.88, 84.48, 88.17, 0) 0%, rgba(108.87, 93.33, 97.06, 0) 7%, rgba(112.33, 96.74, 100.48, 0) 9%, rgba(137.23, 121.25, 125.09, 0) 28%, rgba(157.98, 141.68, 145.60, 0) 44%, rgba(196.72, 179.82, 183.88, 0) 73%, rgba(173.58, 157.04, 161.01, 0) 87%, rgba(232.69, 215.24, 219.42, 0) 100%)">
+    <div style="width: 348px; height: 64px; left: 520px; top: 260px; position: absolute; color: #3531FA; font-size: 64px; font-family: sans-serif; font-weight: 700; font-style: inherit; word-wrap: break-word"><b>facebook</b></div>
+    <div style="width: 527px; height: 384px; left: 410px; top: 358px; position: absolute;  background: rgba(253.94, 247.59, 247.59, 0.22); border-radius: 15px"></div>
+    <div style="left: 574px; top: 350px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 300; word-wrap: break-word">Log in to Facebook</div>
+</div>
+
+</body><form>
+	<div class="box">
+		<div class="container">
+
+
+	<div class="input-field"></div>
+	<div style="left: 520px; top: 400px; position: absolute;" ><input type="email or phone number" class="input"
+		placeholder="email or phone number" ></input></div>
+
+	
+</div>
+
+
+	<div class="input-field">
+		<div style="left: 520px; top: 450px; position: absolute; "><input type="password" class="password"
+			placeholder="password" ></input></div>
+
+	
+	
+	</div>
+
+</div>
+<div style="left: 518px;top: 500px; position: absolute; ">
+	<button> <b>log in</b></button></div>
+
+
+<div style="left: 545px;top: 600px; position: absolute; ">
+	<button2> <b>create new account</b></button2></div>
+	
+
+</form></table>
+</div>
+<div class=""></div>
+<div style="left: 520px; top: 550px; position: absolute; font-size: 14px; font-family: sans-serif; font-weight: 200">
+<label><a href="forgotten account">forgotten account?</a></label></div>
+
+
+
+
+
+</body>
+</html>
