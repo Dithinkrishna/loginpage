@@ -3,24 +3,25 @@
 <head>
  <title>login facebook </title>
 <style type="text/css">
-	button{padding-left: 132px;
-		 padding-right: 132px;
+	body{background-color: rgba(216, 216, 236, 0.822);}
+	button{padding-left: 170px;
+		 padding-right: 170px;
 		 
-	 padding-top: 10px;
-	 padding-bottom: 10px;
+	 padding-top: 13px;
+	 padding-bottom: 13px;
 	 color: white;
 	 background-color: blue; 
-	 border-radius: 10px;
+	 border-radius: 5px;
 	}
-	input{padding-left: 60px;
-	padding-right: 60px;
+	input{padding-left: 98px;
+	padding-right: 98px;
 	
-padding-top: 10px;
-padding-bottom: 10px;
-border-radius: 10px;
+padding-top: 13px;
+padding-bottom: 13px;
+border-radius: 5px;
 
 }
-	
+
 </style>
 
 
@@ -29,27 +30,29 @@ border-radius: 10px;
 
 <body>
 	
+
+	<div style="width: 360px; height: 64px; left: 550px; top: 80px; position: absolute; color: #3531FA; font-size: 50px; font-family: sans-serif; font-weight: 100; font-style: inherit; word-wrap: break-word"><b>facebook</b></div>
+	
 	<table><form>
 		<div class="box">
 
-		<div style="background-color: rgb(202, 139, 139); box-shadow: 5px; border: 2px solid black;
+		<div style="background-color: rgb(255, 250, 250); padding: 10px; box-shadow: 10px 15px 18px rgb(190, 188, 188); border: 0px solid black;
 		width: 380px;height: 280px;
-		 border-radius: 5px; left: 470px; top: 340px; position: absolute; color:#3531FA;"></div>
+		 border-radius: 5px; left: 460px; top: 140px; position: absolute; color:#3531FA;"></div>
 		
 			
-<div style="width: 100%; height: 100%; position: relative; background: linear-gradient(217deg, rgba(99.88, 84.48, 88.17, 0) 0%, rgba(108.87, 93.33, 97.06, 0) 7%, rgba(112.33, 96.74, 100.48, 0) 9%, rgba(137.23, 121.25, 125.09, 0) 28%, rgba(157.98, 141.68, 145.60, 0) 44%, rgba(196.72, 179.82, 183.88, 0) 73%, rgba(173.58, 157.04, 161.01, 0) 87%, rgba(232.69, 215.24, 219.42, 0) 100%)">
-    <div style="width: 360px; height: 64px; left: 515px; top: 260px; position: absolute; color: #3531FA; font-size: 64px; font-family: sans-serif; font-weight: 700; font-style: inherit; word-wrap: break-word"><b>facebook</b></div>
-    <div style="width: 527px; height: 384px; left: 410px; top: 358px; position: absolute;  background: rgba(253.94, 247.59, 247.59, 0.22); border-radius: 15px"></div>
+     
+
 		</div>
  
 
-    <div style="left: 574px; top: 350px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 300; word-wrap: break-word">Log in to Facebook</div>
+    <div style="left: 574px; top: 150px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 300; word-wrap: break-word">Log in to Facebook</div>
 
 <div class="container">
 
 
 	<div class="input-field">
-	<div style="left: 520px; top: 400px; position: absolute;" ><input type="email or phone number" class="input"
+	<div style="left: 480px; top: 200px; position: absolute; color: rgb(165, 159, 159);" ><input type="email or phone number" class="input"
 		placeholder="email or phone number" ></input></div>
 
 	
@@ -57,7 +60,7 @@ border-radius: 10px;
 
 
 	<div class="input-field">
-		<div style="left: 520px; top: 450px; position: absolute; "><input type="password" class="password"
+		<div style="left: 480px; top: 270px; position: absolute; "><input type="password" class="password"
 			placeholder="password" ></input></div>
 
 	
@@ -65,7 +68,7 @@ border-radius: 10px;
 	
 
 	<div class="button">
-         <div style="left: 518px;top: 500px; position: absolute;">
+         <div style="left: 478px;top: 340px; position: absolute;">
 <button>login</button></div>
 
 
@@ -75,12 +78,12 @@ border-radius: 10px;
 </form></table>
 </div>
 
-<div style="left: 540px; top: 580px; position: absolute; font-size: 14px; font-family: sans-serif; font-weight: 200">
+<div style="left: 530px; top: 400px; position: absolute; font-size: 14px; font-family: sans-serif; font-weight: 200">
 <label><a href="forgotten account">forgotten account?</a></label></div>
 
 </div>
 <div class=""></div>
-<div style="left: 680px; top: 580px; position: absolute; font-size: 14px; font-family: sans-serif; font-weight: 200">
+<div style="left: 660px; top: 400px; position: absolute; font-size: 14px; font-family: sans-serif; font-weight: 200">
 <label><a href="#">signup for facebook</a></label></div>
 
 
