@@ -53,7 +53,7 @@ border-color:white;
 
 
 	<div class="input-field">
-	<div style="left: 480px; top: 200px; position: absolute;" ><input type="email or phone number" class="input"
+	<div style="left: 480px; top: 200px; position: absolute;border: 1px solid; " ><input type="email or phone number" class="input"
 		placeholder="email or phone number" ></input></div>
 
 	
@@ -61,7 +61,7 @@ border-color:white;
 
 
 	<div class="input-field">
-		<div style="left: 480px; top: 270px; position: absolute; "><input type="password" class="password"
+		<div style="left: 480px; top: 270px; position: absolute;border: 1px solid; "><input type="password" class="password"
 			placeholder="password" ></input></div>
 
 	
