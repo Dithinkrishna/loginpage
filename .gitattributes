@@ -20,6 +20,7 @@ padding-top: 15px;
 padding-bottom: 15px;
 border-radius: 5px;
 border-color:white;
+border:1px groove;
 
 }
 
@@ -37,14 +38,14 @@ border-color:white;
 	<table><form>
 		<div class="box">
 
-		<div style="background-color: rgb(250, 254, 255); padding: 10px; box-shadow: 10px 15px 18px rgb(190, 188, 188); border: 0px solid black;
+		<div style="background-color: rgb(250, 254, 255); padding: 10px; box-shadow: 10px 15px 18px rgb(190, 188, 188); border: 0px solid;
 		width: 380px;height: 300px;
 		 border-radius: 5px; left: 460px; top: 140px; position: absolute; color:#3531FA;"></div>
 		
 			
      
 
-		</div>
+		</d
  
 
     <div style="left: 574px; top: 150px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 300; word-wrap: break-word">Log in to Facebook</div>
