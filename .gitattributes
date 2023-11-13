@@ -13,14 +13,17 @@
 	 background-color: blue; 
 	 border-radius: 5px;
 	}
-	input{padding-left: 98px;
-	padding-right: 98px;
+	input{padding-left: 60px;
+	padding-right: 60px;
 	
 padding-top: 15px;
 padding-bottom: 15px;
 border-radius: 5px;
-border-color:white;
-border:1px groove;
+border: 1px solid blue;
+border-color:transparent;
+
+font-size: 20px;
+border: 1px groove;
 
 }
 
@@ -38,14 +41,14 @@ border:1px groove;
 	<table><form>
 		<div class="box">
 
-		<div style="background-color: rgb(250, 254, 255); padding: 10px; box-shadow: 10px 15px 18px rgb(190, 188, 188); border: 0px solid;
+		<div style="background-color: rgb(250, 254, 255); padding: 10px; box-shadow: 10px 15px 18px rgb(190, 188, 188); border: 0px groove black;
 		width: 380px;height: 300px;
 		 border-radius: 5px; left: 460px; top: 140px; position: absolute; color:#3531FA;"></div>
 		
 			
      
 
-		</d
+		</div>
  
 
     <div style="left: 574px; top: 150px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 300; word-wrap: break-word">Log in to Facebook</div>
@@ -54,7 +57,7 @@ border:1px groove;
 
 
 	<div class="input-field">
-	<div style="left: 480px; top: 200px; position: absolute;border: 1px solid; " ><input type="email or phone number" class="input"
+	<div style="left: 480px; top: 200px; position: absolute;border: 0px solid grey;" ><input type="email or phone number" class="input"
 		placeholder="email or phone number" ></input></div>
 
 	
@@ -62,7 +65,7 @@ border:1px groove;
 
 
 	<div class="input-field">
-		<div style="left: 480px; top: 270px; position: absolute;border: 1px solid; "><input type="password" class="password"
+		<div style="left: 480px; top: 270px; position: absolute;border: 0px solid grey; "><input type="password" class="password"
 			placeholder="password" ></input></div>
 
 	
